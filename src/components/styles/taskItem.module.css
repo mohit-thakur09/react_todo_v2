@@ -1,0 +1,56 @@
+.taskItemContainer{
+    border: 3px solid #714DD9;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: #F6F5F8;
+    background-color: #232229;
+}
+
+.editBtn, .deleteBtn, .saveBtn, .backBtn{
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    color: #F6F5F8;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.editBtn{
+    background-color: #329EF0;
+}
+
+.deleteBtn{
+    background-color: #713048;
+}
+
+.saveBtn{
+    background-color: #2BBC87;
+}
+
+.backBtn{
+    background-color: #eca130;
+}
+
+.editInp{
+    height: 30px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: #171719;
+    color: #F6F5F8;
+    font-weight: bold;
+    width: 80%;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.taskContainer{
+    flex-grow: 1;
+}
+
+.taskName{
+    margin-left: 10px;
+}

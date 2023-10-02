@@ -1,0 +1,13 @@
+.mainContainer{
+    border: 1px solid;
+    width: 600px;
+    margin: auto;
+    background-color: #171719;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.heading, .subHeading{
+    color: #F6F5F8;
+}
