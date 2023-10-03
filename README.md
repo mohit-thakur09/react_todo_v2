@@ -1,5 +1,8 @@
 # react_todo_v2 : To-Do App
 
+![todoUI](https://github.com/mohit-thakur09/react_todo_v2/assets/82665617/68166715-1c4b-4741-b169-e32ef8e6a78f)
+
+
 Introducing a feature-rich task management application built with React.js, designed to streamline your daily productivity. With this intuitive app, you can effortlessly log your to-do tasks, mark them as completed with a striking-through effect, make quick edits if you spot a typo, and permanently delete tasks when necessary.
 
 ## Features
